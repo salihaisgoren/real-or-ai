@@ -85,7 +85,7 @@ function ModeSelectionScreen({ setGameMode, MODES }) {
                     onClick={() => setGameMode(MODES.SPRINT)}
                 >
                     <h4 style={styles.title}>⏱️ 60 Saniye Süre Modu</h4>
-                    <p style={styles.description}>Hız önemlidir! Süre bitene kadar bilmeye çalışın.Her doğru cevabınız skor olarak yansıyacaktır</p>
+                    <p style={styles.description}>Hız önemlidir! Süre bitene kadar bilmeye çalışın.Her doğru cevabınız skor olarak yansıyacaktır.</p>
                 </button>
             </div>
         </div>
